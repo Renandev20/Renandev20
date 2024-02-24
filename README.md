@@ -1,16 +1,34 @@
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header&text=Renan%20Oliveira%20Nunes&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!--
-**Renandev20/Renandev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I.%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&count_private=true&hide_border=true&title_color=007bff&icon_color=007bff&text_color=007bff&bg_color=transparent" alt="Renandev20 github stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&layout=compact&hide_border=true&title_color=007bff&text_color=007bff&bg_color=transparent" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Renandev20&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+    <a href="https://www.instagram.com/j.renan._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-007bff?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+## Habilidades
+
+<div align="center">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+</div>
+
+## Ferramentas
+
+<div align="center">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows 10"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office"/>
+</div>
