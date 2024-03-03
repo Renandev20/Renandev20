@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I.%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&count_private=true&hide_border=true&title_color=007bff&icon_color=007bff&text_color=007bff&bg_color=transparent" alt="Renandev20 github stats" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&layout=compact&hide_border=true&title_color=007bff&text_color=007bff&bg_color=transparent" />
+<div align="center" style="width: 100%;">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&hide_progress=true&bg_color=00000000" alt="Top Langs" />
 </div>
 
 <p align="center">
