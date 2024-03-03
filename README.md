@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I.%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
 <div align="center" style="width: 100%;">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&hide_progress=true&bg_color=00000000" alt="Top Langs" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&bg_color=000000" alt="Anurag's GitHub stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&layout=compact&bg_color=000000" alt="Top Langs" />
 </div>
 
 <p align="center">
