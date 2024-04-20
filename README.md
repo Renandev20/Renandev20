@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
 <div>
-
-## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://https://github.com/Renandev20)
-[![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renanoliveiranunes398@gmail.com)
+      
+##  Fale comigo
+      
+[![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/Renandev20)
+[![Gmail](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renanoliveiranunes398@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-3f3f3f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/j.renan._//)
 
       
 ## Habilidades
