@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header&text=Renan%20Oliveira%20Nunes&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
-<div>
+
       
 ##  Fale comigo
       
@@ -11,14 +11,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-3f3f3f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/j.renan._//)
 
       
-## Habilidades
+## Tecnologias
 ![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-3f3f3f?style=for-the-badge&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3f3f3f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![NPM](https://img.shields.io/badge/NPM-3f3f3f?style=for-the-badge&logo=npm)
 ![PyCharm](https://img.shields.io/badge/PyCharm-3f3f3f?style=for-the-badge&logo=pycharm&logoColor=000000)
 ![Arduino](https://img.shields.io/badge/Arduino-3f3f3f?style=for-the-badge&logo=arduino&logoColor=00979D)
-## Linguagens de Marcação e Estilo
+## Linguagens de Marcação
 ![Markdown](https://img.shields.io/badge/Markdown-3f3f3f?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-3f3f3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-3f3f3f?style=for-the-badge&logo=css3&logoColor=1572B6)
