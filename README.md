@@ -2,21 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
-- Experiência Técnica em Informática: 2/3
-- Estudante de Desenvolvimento Web (Backend e Frontend)
+- Técnico em Informática: 2/3
+- Estudante de Desenvolvimento Web/desktop (Backend e Frontend).
 - Venha falar comingo sobre algoritimos, python e java e javascript.
   
 
 
 ## GitHub Stats
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://github.com/renandev20/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=renandev20&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/renandev20/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandev20&layout=compact&theme=transparent" />
-  </a>
+<div align="left"> 
+    
 </div>
+<div align="left"> 
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=renandev20&show_icons=true&theme=transparent" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandev20&layout=compact&theme=transparent" />
+</div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renandev20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ##  Fale comigo
