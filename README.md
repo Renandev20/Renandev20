@@ -14,7 +14,7 @@
 </div>
 <div align="left"> 
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=renandev20&show_icons=true&theme=transparent" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandev20&layout=compact&theme=transparent" />
+   
 </div>
 
 
