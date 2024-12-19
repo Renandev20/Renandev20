@@ -35,13 +35,10 @@
 ![Java](https://img.shields.io/badge/Java-3f3f3f?style=for-the-badge&logo=java&logoColor=007396)
 ![C#](https://img.shields.io/badge/C%23-3f3f3f?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-3f3f3f?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-3f3f3f?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 ## Bibliotecas e Frameworks
 ![Spring](https://img.shields.io/badge/Spring-3f3f3f?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot&logoColor=239120)
-![Pandas](https://img.shields.io/badge/Pandas-3f3f3f?style=for-the-badge&logo=pandas&logoColor=150458)
-![Flutter](https://img.shields.io/badge/Flutter-3f3f3f?style=for-the-badge&logo=flutter&logoColor=02569B)
 ![.NET](https://img.shields.io/badge/.NET-3f3f3f?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 ## Banco de Dados
