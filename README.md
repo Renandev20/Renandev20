@@ -5,9 +5,9 @@
 - **Venha falar comigo sobre algoritmos, Python, Java, JavaScript e muito mais!**
 
 ## GitHub Stats
-<div align="left"> 
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=renandev20&show_icons=true&theme=transparent" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandev20&layout=compact&theme=transparent" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renandev20&show_icons=true&count_private=true&hide_border=true&title_color=fffB&icon_color=37026B&text_color=c9d1d9&bg_color=0d1117" alt=" "/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renandev20&layout=compact&hide_border=true&title_color=fff&text_color=ffff&bg_color=0d1117" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renandev20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
