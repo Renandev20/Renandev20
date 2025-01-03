@@ -3,6 +3,7 @@
 - **Técnico em Informática:** 3/3
 - **Estudante de Desenvolvimento Web/Desktop (Backend e Frontend).**
 - **Venha falar comigo sobre algoritmos, Python, Java, JavaScript e muito mais!**
+  
 
 ## GitHub Stats
 <div align="center">  
