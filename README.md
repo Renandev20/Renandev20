@@ -17,6 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/Renandev20)
 [![Gmail](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renanoliveiranunes398@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-3f3f3f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.renan._//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3f3f3f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/renan-oliveira-nunes-944aa1292/)
 
 ## Tecnologias
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -37,6 +38,9 @@
 ![C#](https://img.shields.io/badge/C%23-3f3f3f?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-3f3f3f?style=for-the-badge&logo=python&logoColor=3776AB)
 
+![SQL](https://img.shields.io/badge/SQL-3f3f3f?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+
+
 ## Bibliotecas e Frameworks
 ![Spring](https://img.shields.io/badge/Spring-3f3f3f?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot&logoColor=239120)
@@ -47,5 +51,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f3f3f?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-3f3f3f?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-## SQL
-![SQL](https://img.shields.io/badge/SQL-3f3f3f?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+
+
+
+
