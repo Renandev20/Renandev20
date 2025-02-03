@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
 - **Técnico em Informática:** 3/3
