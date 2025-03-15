@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 
-- **Técnico em Informática:** 3/3
-- **Estudante de Desenvolvimento Web/Desktop (Backend e Frontend).**
-- **Venha falar comigo sobre algoritmos, Python, Java, JavaScript e muito mais!**
-  
+- **Técnico em Informática:** 3/3  
+- **Estudante de Desenvolvimento Web/Desktop (Backend e Frontend).**  
+- **Venha falar comigo sobre algoritmos, Python, Java, JavaScript e muito mais!**  
 
 ## GitHub Stats
 <div align="center">  
@@ -37,21 +36,18 @@
 ![Java](https://img.shields.io/badge/Java-3f3f3f?style=for-the-badge&logo=java&logoColor=007396)
 ![C#](https://img.shields.io/badge/C%23-3f3f3f?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-3f3f3f?style=for-the-badge&logo=python&logoColor=3776AB)
-
+![Dart](https://img.shields.io/badge/Dart-3f3f3f?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![SQL](https://img.shields.io/badge/SQL-3f3f3f?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-
 
 ## Bibliotecas e Frameworks
 ![Spring](https://img.shields.io/badge/Spring-3f3f3f?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot&logoColor=239120)
 ![.NET](https://img.shields.io/badge/.NET-3f3f3f?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Flutter](https://img.shields.io/badge/Flutter-3f3f3f?style=for-the-badge&logo=flutter&logoColor=02569B)
+![React](https://img.shields.io/badge/React-3f3f3f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3f3f3f?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ## Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-3f3f3f?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f3f3f?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-3f3f3f?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-
-
-
-
